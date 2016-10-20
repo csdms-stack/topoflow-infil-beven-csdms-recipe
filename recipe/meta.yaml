@@ -1,4 +1,4 @@
-{% set name = "topoflow-infil-beven-csdms" %}
+{% set name = "csdms-topoflow-infil-beven" %}
 {% set version = "3.4" %}
 
 package:
